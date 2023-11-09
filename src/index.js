@@ -5,7 +5,6 @@ import {PropTypes} from 'prop-types';
 /* eslint-enable import/no-unresolved, import/extensions */
 
 function noop() {}
-
 export default class Swipeable extends PureComponent {
 
   static propTypes = {
